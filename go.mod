@@ -1,4 +1,4 @@
-module github.com/Carcraftz/utls
+module github.com/papermario8420/utls
 
 require (
 	github.com/dsnet/compress v0.0.1
